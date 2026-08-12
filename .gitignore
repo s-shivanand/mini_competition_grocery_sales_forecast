@@ -19,3 +19,6 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# ignore .toml
+.toml
