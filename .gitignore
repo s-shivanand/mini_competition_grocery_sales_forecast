@@ -21,4 +21,4 @@ env/
 .idea/
 
 # ignore .toml
-.toml
+*.toml
