@@ -22,3 +22,6 @@ env/
 
 # ignore .toml
 *.toml
+
+#ignore uv.lock
+uv.lock
